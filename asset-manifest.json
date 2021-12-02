@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proyecto_web_final/static/css/main.ff1f0320.chunk.css",
+    "main.js": "/proyecto_web_final/static/js/main.1998c425.chunk.js",
+    "main.js.map": "/proyecto_web_final/static/js/main.1998c425.chunk.js.map",
+    "runtime-main.js": "/proyecto_web_final/static/js/runtime-main.c278a288.js",
+    "runtime-main.js.map": "/proyecto_web_final/static/js/runtime-main.c278a288.js.map",
+    "static/js/2.d4fe9450.chunk.js": "/proyecto_web_final/static/js/2.d4fe9450.chunk.js",
+    "static/js/2.d4fe9450.chunk.js.map": "/proyecto_web_final/static/js/2.d4fe9450.chunk.js.map",
+    "static/js/3.cbaaab34.chunk.js": "/proyecto_web_final/static/js/3.cbaaab34.chunk.js",
+    "static/js/3.cbaaab34.chunk.js.map": "/proyecto_web_final/static/js/3.cbaaab34.chunk.js.map",
+    "index.html": "/proyecto_web_final/index.html",
+    "static/css/main.ff1f0320.chunk.css.map": "/proyecto_web_final/static/css/main.ff1f0320.chunk.css.map",
+    "static/js/2.d4fe9450.chunk.js.LICENSE.txt": "/proyecto_web_final/static/js/2.d4fe9450.chunk.js.LICENSE.txt",
+    "static/media/LoginPic.a248a50f.png": "/proyecto_web_final/static/media/LoginPic.a248a50f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c278a288.js",
+    "static/js/2.d4fe9450.chunk.js",
+    "static/css/main.ff1f0320.chunk.css",
+    "static/js/main.1998c425.chunk.js"
+  ]
+}
